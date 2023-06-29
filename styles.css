@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.container{
+	background:lightgrey;
+	outline:solid black;
+	border-radius:30px;
+}
+div{
+	display:flex;
+	padding:50px;
+	margin:15px;
+}
+.green{
+	background:green;
+	border-radius:100%;
+	
+}
+.yellow{
+	background:yellow;
+	border-radius:100%;
+}
+.red{
+	background:red;
+	border-radius:100%;
+}
